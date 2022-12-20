@@ -1,0 +1,2 @@
+# HandGestureRecognition---ASL
+OpenCV, MediaPipe
